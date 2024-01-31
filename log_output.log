@@ -1,0 +1,312 @@
+{"time":  2024-02-01 02:39:02,383, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 02:39:02] "POST /scrape-and-save HTTP/1.1" 200 -}
+{"time":  2024-02-01 02:39:43,330, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 02:39:43,406, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 02:39:43,968, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 02:39:43,975, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 02:40:18,236, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/utils/general_utils.py', reloading}
+{"time":  2024-02-01 02:40:18,306, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 02:40:18,803, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 02:40:18,810, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 02:40:46,023, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 02:40:46,092, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 02:40:46,393, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 02:40:46,398, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 02:40:49,430, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 02:40:49,490, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 02:40:49,812, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 02:40:49,817, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 02:40:57,879, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 02:40:57,921, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 02:40:58,371, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 02:40:58,377, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 02:41:00,397, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 02:41:00,441, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 02:41:00,866, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 02:41:00,871, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 02:41:01,491, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 02:41:01,492, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 02:41:10,094, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 02:41:10] "[35m[1mPOST /scrape-and-save HTTP/1.1[0m" 500 -}
+{"time":  2024-02-01 02:41:24,068, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 02:41:24,129, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 02:41:24,607, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 02:41:24,614, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 02:41:24,621, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 02:41:24,621, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 02:41:32,277, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 02:41:32] "POST /scrape-and-save HTTP/1.1" 200 -}
+{"time":  2024-02-01 02:42:29,162, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/utils/general_utils.py', reloading}
+{"time":  2024-02-01 02:42:29,242, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 02:42:29,935, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 02:42:29,943, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 02:42:53,102, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 02:42:53,167, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 02:42:53,625, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 02:42:53,630, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 02:42:54,643, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 02:42:54,689, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 02:42:55,116, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 02:42:55,121, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 02:42:59,154, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 02:42:59,235, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 02:42:59,508, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 02:42:59,513, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 02:42:59,779, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 02:42:59,779, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 02:43:07,692, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 02:43:07] "POST /scrape-and-save HTTP/1.1" 200 -}
+{"time":  2024-02-01 02:43:19,677, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 02:43:19,739, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 02:43:20,253, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 02:43:20,259, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 02:43:21,138, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 02:43:21,138, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 02:43:29,676, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 02:43:29] "POST /scrape-and-save HTTP/1.1" 200 -}
+{"time":  2024-02-01 02:43:58,553, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 02:43:58,626, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 02:43:59,074, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 02:43:59,080, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 02:44:03,630, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 02:44:03,630, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 02:44:12,801, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 02:44:12] "[35m[1mPOST /scrape-and-save HTTP/1.1[0m" 500 -}
+{"time":  2024-02-01 02:45:03,516, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 02:45:03,570, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 02:45:04,067, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 02:45:04,072, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 02:45:10,111, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 02:45:10,149, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 02:45:10,586, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 02:45:10,591, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 02:45:11,603, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 02:45:11,644, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 02:45:12,092, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 02:45:12,098, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 02:45:12,996, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 02:45:12,997, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 02:45:21,501, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 02:45:21] "POST /scrape-and-save HTTP/1.1" 200 -}
+{"time":  2024-02-01 02:45:38,319, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 02:45:38,399, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 02:45:38,989, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 02:45:38,996, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 02:46:10,205, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 02:46:10,275, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 02:46:10,702, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 02:46:10,708, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 03:15:27,088, "class": "werkzeug", "level": "INFO", "msg": [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000}
+{"time":  2024-02-01 03:15:27,089, "class": "werkzeug", "level": "INFO", "msg": [33mPress CTRL+C to quit[0m}
+{"time":  2024-02-01 03:15:27,089, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 03:15:27,638, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 03:15:27,648, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 03:15:31,323, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 03:15:31] "[33mPOST /scrape-and-save HTTP/1.1[0m" 404 -}
+{"time":  2024-02-01 03:15:36,296, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 03:15:36,296, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 03:15:44,806, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 03:15:44] "[35m[1mPOST /scrape-and-check HTTP/1.1[0m" 500 -}
+{"time":  2024-02-01 03:15:54,907, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/utils/sql_utils.py', reloading}
+{"time":  2024-02-01 03:15:55,031, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 03:15:55,780, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 03:15:55,787, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 03:15:56,693, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 03:15:56,693, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 03:16:04,455, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 03:16:04] "POST /scrape-and-check HTTP/1.1" 200 -}
+{"time":  2024-02-01 03:17:24,433, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/models/principal_models.py', reloading}
+{"time":  2024-02-01 03:17:24,509, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 03:17:24,979, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 03:17:24,989, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 03:17:28,012, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/models/principal_models.py', reloading}
+{"time":  2024-02-01 03:17:28,108, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 03:17:28,645, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 03:17:28,650, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 03:19:19,487, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 03:19:19,488, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 03:19:27,369, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 03:19:27] "POST /scrape-and-check HTTP/1.1" 200 -}
+{"time":  2024-02-01 03:20:00,981, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/models/principal_models.py', reloading}
+{"time":  2024-02-01 03:20:01,092, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 03:20:02,111, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 03:20:02,119, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 03:20:22,724, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 03:20:22,725, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 03:20:32,399, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 03:20:32] "POST /scrape-and-check HTTP/1.1" 200 -}
+{"time":  2024-02-01 03:22:45,481, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/load_csv.py', reloading}
+{"time":  2024-02-01 03:22:45,584, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 03:22:46,173, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 03:22:46,179, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 03:27:46,959, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/utils/general_utils.py', reloading}
+{"time":  2024-02-01 03:27:47,054, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 03:27:47,729, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 03:27:47,735, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 03:28:19,055, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/utils/general_utils.py', reloading}
+{"time":  2024-02-01 03:28:19,127, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 03:28:19,789, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 03:28:19,795, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 03:28:39,942, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/load_csv.py', reloading}
+{"time":  2024-02-01 03:28:40,025, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 03:28:40,476, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 03:28:40,481, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 03:28:41,494, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/load_csv.py', reloading}
+{"time":  2024-02-01 03:28:41,555, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 03:28:41,951, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 03:28:41,956, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 03:29:26,309, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/utils/general_utils.py', reloading}
+{"time":  2024-02-01 03:29:26,382, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 03:29:26,855, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 03:29:26,869, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 03:31:45,414, "class": "flask-application", "level": "INFO", "msg":     transaction_id  investor_loan_  servicer_loan_  ...  beginning_deferred_balance  ending_deferred_balance   id
+0       CMLT06AMC1        97026314             NaN  ...                         NaN                      NaN    1
+1       CMLT06AMC1       149634024             NaN  ...                         NaN                      NaN    2
+2       CMLT06AMC1       149639460             NaN  ...                         NaN                      NaN    3
+3       CMLT06AMC1        97557599             NaN  ...                         NaN                      NaN    4
+4       CMLT06AMC1       149647208             NaN  ...                         NaN                      NaN    5
+..             ...             ...             ...  ...                         ...                      ...  ...
+785     CMLT06AMC1        98230238             NaN  ...                         NaN                      NaN  786
+786     CMLT06AMC1        97051791             NaN  ...                         NaN                      NaN  787
+787     CMLT06AMC1        96730635             NaN  ...                         NaN                      NaN  788
+788     CMLT06AMC1        95577391             NaN  ...                         NaN                      NaN  789
+789     CMLT06AMC1        97837157             NaN  ...                         NaN                      NaN  790
+
+[790 rows x 70 columns]}
+{"time":  2024-02-01 03:59:26,841, "class": "werkzeug", "level": "INFO", "msg": [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000}
+{"time":  2024-02-01 03:59:26,841, "class": "werkzeug", "level": "INFO", "msg": [33mPress CTRL+C to quit[0m}
+{"time":  2024-02-01 03:59:26,841, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 03:59:27,295, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 03:59:27,303, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 03:59:28,634, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 03:59:28,634, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 03:59:38,629, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 03:59:38] "POST /scrape-and-check HTTP/1.1" 200 -}
+{"time":  2024-02-01 04:02:36,120, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:02:36,249, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:02:36,945, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:02:36,955, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:04:15,777, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:04:15,862, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:04:16,364, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:04:16,369, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:05:18,887, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:05:18,988, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:05:19,482, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:05:19,488, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:05:35,600, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:05:35,673, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:05:36,132, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:05:36,138, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:05:39,174, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:05:39,255, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:05:39,660, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:05:39,664, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:05:44,706, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:05:44,782, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:05:45,166, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:05:45,171, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:05:47,197, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:05:47,284, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:05:47,763, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:05:47,768, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:05:47,773, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 04:05:47,773, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 04:05:57,270, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 04:05:57] "[35m[1mPOST /scrape-and-check HTTP/1.1[0m" 500 -}
+{"time":  2024-02-01 04:07:12,555, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:07:12,661, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:07:13,189, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:07:13,194, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:07:14,206, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:07:14,285, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:07:14,813, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:07:14,821, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:07:15,819, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 04:07:15,820, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 04:07:22,954, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 04:07:22] "[35m[1mPOST /scrape-and-check HTTP/1.1[0m" 500 -}
+{"time":  2024-02-01 04:07:30,955, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:07:31,031, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:07:31,489, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:07:31,494, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:07:38,194, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 04:07:38,195, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 04:07:44,962, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 04:07:44] "[35m[1mPOST /scrape-and-check HTTP/1.1[0m" 500 -}
+{"time":  2024-02-01 04:08:26,961, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:08:27,071, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:08:27,733, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:08:27,741, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:08:29,757, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:08:29,831, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:08:30,433, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:08:30,440, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:08:31,069, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 04:08:31,070, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 04:08:37,997, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 04:08:37] "[35m[1mPOST /scrape-and-check HTTP/1.1[0m" 500 -}
+{"time":  2024-02-01 04:10:13,442, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:10:13,543, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:10:14,064, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:10:14,070, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:10:15,806, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 04:10:15,806, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 04:10:24,573, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 04:10:24] "[35m[1mPOST /scrape-and-check HTTP/1.1[0m" 500 -}
+{"time":  2024-02-01 04:10:39,244, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:10:39,351, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:10:39,906, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:10:39,911, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:10:40,095, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 04:10:40,095, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 04:10:47,386, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 04:10:47] "[35m[1mPOST /scrape-and-check HTTP/1.1[0m" 500 -}
+{"time":  2024-02-01 04:11:38,478, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:11:38,571, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:11:39,285, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:11:39,291, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:11:54,395, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:11:54,474, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:11:54,914, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:11:54,919, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:11:55,931, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:11:56,004, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:11:56,534, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:11:56,538, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:12:40,898, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:12:40,996, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:12:41,506, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:12:41,511, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:12:48,569, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:12:48,635, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:12:49,180, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:12:49,187, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:12:51,210, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:12:51,296, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:12:51,728, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:12:51,733, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:13:01,129, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 04:13:01,129, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 04:13:09,570, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 04:13:09] "[35m[1mPOST /scrape-and-check HTTP/1.1[0m" 500 -}
+{"time":  2024-02-01 04:13:26,981, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:13:27,059, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:13:27,606, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:13:27,613, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:13:29,633, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:13:29,713, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:13:30,118, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:13:30,123, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:13:31,133, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:13:31,239, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:13:31,761, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:13:31,766, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:13:32,125, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 04:13:32,125, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 04:13:43,397, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 04:13:43] "[35m[1mPOST /scrape-and-check HTTP/1.1[0m" 500 -}
+{"time":  2024-02-01 04:14:59,645, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:14:59,755, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:15:00,216, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:15:00,223, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:15:15,350, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:15:15,436, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:15:15,873, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:15:15,878, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:15:23,943, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:15:24,014, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:15:24,460, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:15:24,465, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:15:41,603, "class": "werkzeug", "level": "INFO", "msg":  * Detected change in '/Users/elinielvaldez/Projects/playground/xelure-project/main.py', reloading}
+{"time":  2024-02-01 04:15:41,660, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:16:39,198, "class": "werkzeug", "level": "INFO", "msg": [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000}
+{"time":  2024-02-01 04:16:39,198, "class": "werkzeug", "level": "INFO", "msg": [33mPress CTRL+C to quit[0m}
+{"time":  2024-02-01 04:16:39,198, "class": "werkzeug", "level": "INFO", "msg":  * Restarting with stat}
+{"time":  2024-02-01 04:16:39,813, "class": "werkzeug", "level": "WARNING", "msg":  * Debugger is active!}
+{"time":  2024-02-01 04:16:39,821, "class": "werkzeug", "level": "INFO", "msg":  * Debugger PIN: 112-016-085}
+{"time":  2024-02-01 04:16:40,768, "class": "tabula.backend", "level": "WARNING", "msg": Error importing jpype dependencies. Fallback to subprocess.}
+{"time":  2024-02-01 04:16:40,768, "class": "tabula.backend", "level": "WARNING", "msg": No module named 'jpype'}
+{"time":  2024-02-01 04:16:50,051, "class": "werkzeug", "level": "INFO", "msg": 127.0.0.1 - - [01/Feb/2024 04:16:50] "POST /scrape-and-check HTTP/1.1" 200 -}
